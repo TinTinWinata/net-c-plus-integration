@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CounterTest": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "hotReloadEnabled": false
+    }
+  }
+}
